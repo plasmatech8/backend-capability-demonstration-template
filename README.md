@@ -8,7 +8,7 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 * Realtime Subscriptions
 * GraphQL/SQL/NoSQL API support
 * Security Policies (row-level & column-level)
-* Search engine functionality
+* Search engine functionality (including fuzzy search)
 
 ## Storage
 
@@ -41,7 +41,7 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 
 ## Hosting
 
-* Front-end serving
+* Front-end serving (with domain name & SSL)
 * CDN performance
 * DDOS protection
 
@@ -61,7 +61,10 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 
 ## Misc
 
-* Machine Learning
+* Machine Learning (text/image recognition)
+* Translation services
 * Payment processing
 * Cloud-agnosticism / ability to migrate
-
+* Secrets management
+* Real-time communication serving (i.e. for games)
+* Security change logs
