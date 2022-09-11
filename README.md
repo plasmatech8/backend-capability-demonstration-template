@@ -31,7 +31,7 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 
 ## Analytics
 
-* User analytics
+* User analytics (i.e. geolocation)
 * Crash reporting
 
 ## Messaging
