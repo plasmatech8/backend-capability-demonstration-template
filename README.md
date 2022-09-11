@@ -16,6 +16,7 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 * Image handling (re-size)
 * Video handling
 * Security Policies (object-level & folder-level)
+* Upload/download loading progress
 
 ## Functions
 
