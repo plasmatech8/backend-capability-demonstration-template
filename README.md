@@ -68,3 +68,4 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 * Secrets management
 * Real-time communication serving (i.e. for games)
 * Security change logs
+* Open source
