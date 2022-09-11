@@ -57,6 +57,7 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 * Define infrastructure/config as code
 * Typescript support
 * Admin dashboard
+* Local hosting/development ability
 
 ## Misc
 
