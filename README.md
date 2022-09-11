@@ -62,4 +62,5 @@ Features that a Back-end as a Service (BaaS) would want to consider.
 
 * Machine Learning
 * Payment processing
+* Cloud-agnosticism / ability to migrate
 
